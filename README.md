@@ -3,3 +3,5 @@
 This is an example application showcasing how to run a Python/Flask app on CircleCI 2.0.
 
 You can follow along with this project by reading the following doc: https://discuss.circleci.com/t/getting-started-flask/8549
+
+Testing CircleCI 2.0
